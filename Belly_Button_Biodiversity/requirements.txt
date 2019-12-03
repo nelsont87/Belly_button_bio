@@ -1,3 +1,4 @@
+python==3.6.9
 certifi==2018.4.16
 click==6.7
 Flask==1.0.2
